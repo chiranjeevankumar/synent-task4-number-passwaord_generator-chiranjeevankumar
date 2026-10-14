@@ -24,7 +24,7 @@ How to Run
 1. Install Python 3.
 2. Download or clone this repository.
 3. Open a terminal in the project folder.
-4. Run "python password_generator.py".
+4. Run "python Password_generation.py".
 
 Example Output
 
@@ -43,4 +43,4 @@ Synent Technologies - Python Development Internship
 
 Task
 
-Task 4 - python Password_generation.py
+Task 4 - Password generator
