@@ -7,9 +7,11 @@ This project is a simple Password Generator developed using Python. It generates
 Features
 
 - Generates random passwords
-- Includes uppercase and lowercase letters
+- Includes uppercase letters
+- Includes lowercase letters
 - Includes numbers
-- Allows the user to choose the password length
+- Includes special characters
+- Lets the user choose password length (minimum 4)
 - Uses a Python function to generate the password
 
 Technologies Used
@@ -23,14 +25,12 @@ How to Run
 1. Install Python 3.
 2. Download or clone this repository.
 3. Open a terminal in the project folder.
-4. Run the following command:
-
-python password_generator.py
+4. Run "python password_generator.py".
 
 Example Output
 
-Enter password length: 8
-Generated Password: aB7kP2xM
+Enter password length (minimum 4): 8
+Generated Password: (a random 8-character password)
 
 The generated password will vary each time.
 
