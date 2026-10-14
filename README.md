@@ -1,4 +1,3 @@
-python Password_generation.py
 
 Project Description
 
@@ -44,4 +43,4 @@ Synent Technologies - Python Development Internship
 
 Task
 
-Task 4 - Password Generator
+Task 4 - python Password_generation.py
