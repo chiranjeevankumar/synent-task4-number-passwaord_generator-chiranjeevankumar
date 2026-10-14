@@ -1,4 +1,4 @@
-python Password_generation
+python Password_generation.py
 
 Project Description
 
